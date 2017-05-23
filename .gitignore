@@ -5,5 +5,8 @@
 # Pony
 *.o
 
+# C++
+*.exe
+
 # Exercism cli executable
 exercism/exercism
