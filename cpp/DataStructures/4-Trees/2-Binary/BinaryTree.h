@@ -1,24 +1,16 @@
-#ifndef TREE_H
-#define TREE_H
+#ifndef BINARYTREE_H
+#define BINARYTREE_H
 
 #include "../Node.h"
+#include "../Tree.h"
 #include <string>
 
-class BinaryTree
+class BinaryTree : public Tree
 {
-    public:
-        BinaryTree();
-        ~BinaryTree();
+    public: 
         BinaryTree(Node* head);
-        
-        Node* getHead();
-    
+        ~BinaryTree();
         void addNode(Node* head, Node* n);
-        
-        void printVals(Node* n, int order);
-    
-    private:
-        Node* m_head;
 };
 
 #endif

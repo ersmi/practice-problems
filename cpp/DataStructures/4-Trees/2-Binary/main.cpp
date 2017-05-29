@@ -1,4 +1,5 @@
 #include "../Node.cpp"
+#include "../Tree.cpp"
 #include "BinaryTree.cpp"
 
 #include <string>
