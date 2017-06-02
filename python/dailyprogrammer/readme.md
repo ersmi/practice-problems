@@ -7,3 +7,5 @@ Sourced from <https://www.reddit.com/r/dailyprogrammer/>
 [291 Intermediate - Infix to Postfix](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/291-intermediate)  
 
 [311 Intermediate - IPv4 Subnet Calculator](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/311-intermediate)  
+
+[317 Intermediate - Counting Elements](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/317-intermediate)  
