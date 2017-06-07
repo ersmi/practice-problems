@@ -1,0 +1,957 @@
+Round 1
+New York Knicks - Boston Celtics
+Oklahoma City Thunder - Chicago Bulls
+Dallas Mavericks - Philadelphia 76ers
+Charlotte Hornets - Milwaukee Bucks
+Brooklyn Nets - Detroit Pistons
+San Antonio Spurs - Phoenix Suns
+Minnesota Timberwolves - Indiana Pacers
+Washington Wizards - Atlanta Hawks
+New Orleans Pelicans - Orlando Magic
+Portland Trail Blazers - Utah Jazz
+Denver Nuggets - Houston Rockets
+Los Angeles Lakers - Miami Heat
+Memphis Grizzlies - Sacramento Kings
+Cleveland Cavaliers - Los Angeles Clippers
+Toronto Raptors - Golden State Warriors
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 1, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': -1, 'Portland Trail Blazers': 1, 'Golden State Warriors': -1, 'New York Knicks': 1, 'Washington Wizards': 1, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': -1, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': 1, 'Charlotte Hornets': 1, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': -1, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 2
+Oklahoma City Thunder - Boston Celtics
+Dallas Mavericks - New York Knicks
+Charlotte Hornets - Chicago Bulls
+Brooklyn Nets - Philadelphia 76ers
+San Antonio Spurs - Milwaukee Bucks
+Minnesota Timberwolves - Detroit Pistons
+Washington Wizards - Phoenix Suns
+New Orleans Pelicans - Indiana Pacers
+Portland Trail Blazers - Atlanta Hawks
+Denver Nuggets - Orlando Magic
+Los Angeles Lakers - Utah Jazz
+Memphis Grizzlies - Houston Rockets
+Cleveland Cavaliers - Miami Heat
+Toronto Raptors - Sacramento Kings
+Golden State Warriors - Los Angeles Clippers
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': -2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': -2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 0, 'New York Knicks': 0, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': 2, 'Sacramento Kings': -2, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': 2, 'Charlotte Hornets': 2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': -2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 2, 'Indiana Pacers': -2, 'Denver Nuggets': 2}
+Round 3
+Boston Celtics - Dallas Mavericks
+Oklahoma City Thunder - Charlotte Hornets
+New York Knicks - Brooklyn Nets
+Chicago Bulls - San Antonio Spurs
+Philadelphia 76ers - Minnesota Timberwolves
+Milwaukee Bucks - Washington Wizards
+Detroit Pistons - New Orleans Pelicans
+Phoenix Suns - Portland Trail Blazers
+Indiana Pacers - Denver Nuggets
+Atlanta Hawks - Los Angeles Lakers
+Orlando Magic - Memphis Grizzlies
+Utah Jazz - Cleveland Cavaliers
+Houston Rockets - Toronto Raptors
+Miami Heat - Golden State Warriors
+Sacramento Kings - Los Angeles Clippers
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 1, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': -1, 'Portland Trail Blazers': 1, 'Golden State Warriors': -1, 'New York Knicks': 1, 'Washington Wizards': 1, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': -1, 'Los Angeles Clippers': -3, 'Oklahoma City Thunder': 3, 'Charlotte Hornets': 1, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': -1, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 4
+Charlotte Hornets - Boston Celtics
+Brooklyn Nets - Dallas Mavericks
+San Antonio Spurs - Oklahoma City Thunder
+Minnesota Timberwolves - New York Knicks
+Washington Wizards - Chicago Bulls
+New Orleans Pelicans - Philadelphia 76ers
+Portland Trail Blazers - Milwaukee Bucks
+Denver Nuggets - Detroit Pistons
+Los Angeles Lakers - Phoenix Suns
+Memphis Grizzlies - Indiana Pacers
+Cleveland Cavaliers - Atlanta Hawks
+Toronto Raptors - Orlando Magic
+Golden State Warriors - Utah Jazz
+Los Angeles Clippers - Houston Rockets
+Sacramento Kings - Miami Heat
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': -2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': -2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 0, 'New York Knicks': 0, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': 0, 'Sacramento Kings': 0, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': 2, 'Charlotte Hornets': 2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': -2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 2, 'Indiana Pacers': -2, 'Denver Nuggets': 2}
+Round 5
+Boston Celtics - Brooklyn Nets
+Charlotte Hornets - San Antonio Spurs
+Dallas Mavericks - Minnesota Timberwolves
+Oklahoma City Thunder - Washington Wizards
+New York Knicks - New Orleans Pelicans
+Chicago Bulls - Portland Trail Blazers
+Philadelphia 76ers - Denver Nuggets
+Milwaukee Bucks - Los Angeles Lakers
+Detroit Pistons - Memphis Grizzlies
+Phoenix Suns - Cleveland Cavaliers
+Indiana Pacers - Toronto Raptors
+Atlanta Hawks - Golden State Warriors
+Orlando Magic - Los Angeles Clippers
+Utah Jazz - Sacramento Kings
+Houston Rockets - Miami Heat
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 1, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -3, 'Orlando Magic': -1, 'Portland Trail Blazers': 1, 'Golden State Warriors': -1, 'New York Knicks': 1, 'Washington Wizards': 1, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': -1, 'Los Angeles Clippers': -3, 'Oklahoma City Thunder': 3, 'Charlotte Hornets': 3, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': -1, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 6
+San Antonio Spurs - Boston Celtics
+Minnesota Timberwolves - Brooklyn Nets
+Washington Wizards - Charlotte Hornets
+New Orleans Pelicans - Dallas Mavericks
+Portland Trail Blazers - Oklahoma City Thunder
+Denver Nuggets - New York Knicks
+Los Angeles Lakers - Chicago Bulls
+Memphis Grizzlies - Philadelphia 76ers
+Cleveland Cavaliers - Milwaukee Bucks
+Toronto Raptors - Detroit Pistons
+Golden State Warriors - Phoenix Suns
+Los Angeles Clippers - Indiana Pacers
+Sacramento Kings - Atlanta Hawks
+Miami Heat - Orlando Magic
+Houston Rockets - Utah Jazz
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': -2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': -2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 0, 'New York Knicks': 0, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': 0, 'Sacramento Kings': 0, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': 2, 'Charlotte Hornets': 2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': 0, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 0, 'Indiana Pacers': -2, 'Denver Nuggets': 2}
+Round 7
+Boston Celtics - Minnesota Timberwolves
+San Antonio Spurs - Washington Wizards
+Brooklyn Nets - New Orleans Pelicans
+Charlotte Hornets - Portland Trail Blazers
+Dallas Mavericks - Denver Nuggets
+Oklahoma City Thunder - Los Angeles Lakers
+New York Knicks - Memphis Grizzlies
+Chicago Bulls - Cleveland Cavaliers
+Philadelphia 76ers - Toronto Raptors
+Milwaukee Bucks - Golden State Warriors
+Detroit Pistons - Los Angeles Clippers
+Phoenix Suns - Sacramento Kings
+Indiana Pacers - Miami Heat
+Atlanta Hawks - Houston Rockets
+Orlando Magic - Utah Jazz
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 3, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -3, 'Orlando Magic': -1, 'Portland Trail Blazers': 1, 'Golden State Warriors': -1, 'New York Knicks': 1, 'Washington Wizards': 1, 'Utah Jazz': -3, 'Dallas Mavericks': 1, 'Sacramento Kings': -1, 'Los Angeles Clippers': -3, 'Oklahoma City Thunder': 3, 'Charlotte Hornets': 3, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': -1, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 8
+Washington Wizards - Boston Celtics
+New Orleans Pelicans - Minnesota Timberwolves
+Portland Trail Blazers - San Antonio Spurs
+Denver Nuggets - Brooklyn Nets
+Los Angeles Lakers - Charlotte Hornets
+Memphis Grizzlies - Dallas Mavericks
+Cleveland Cavaliers - Oklahoma City Thunder
+Toronto Raptors - New York Knicks
+Golden State Warriors - Chicago Bulls
+Los Angeles Clippers - Philadelphia 76ers
+Sacramento Kings - Milwaukee Bucks
+Miami Heat - Detroit Pistons
+Houston Rockets - Phoenix Suns
+Utah Jazz - Indiana Pacers
+Orlando Magic - Atlanta Hawks
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': -2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': 0, 'Portland Trail Blazers': 2, 'Golden State Warriors': 0, 'New York Knicks': 0, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': 0, 'Sacramento Kings': 0, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': 2, 'Charlotte Hornets': 2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': 0, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 0, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 0, 'Indiana Pacers': -2, 'Denver Nuggets': 2}
+Round 9
+Boston Celtics - New Orleans Pelicans
+Washington Wizards - Portland Trail Blazers
+Minnesota Timberwolves - Denver Nuggets
+San Antonio Spurs - Los Angeles Lakers
+Brooklyn Nets - Memphis Grizzlies
+Charlotte Hornets - Cleveland Cavaliers
+Dallas Mavericks - Toronto Raptors
+Golden State Warriors - Oklahoma City Thunder
+Los Angeles Clippers - New York Knicks
+Chicago Bulls - Sacramento Kings
+Philadelphia 76ers - Miami Heat
+Milwaukee Bucks - Houston Rockets
+Detroit Pistons - Utah Jazz
+Phoenix Suns - Orlando Magic
+Indiana Pacers - Atlanta Hawks
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 3, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -3, 'Orlando Magic': -1, 'Portland Trail Blazers': 1, 'Golden State Warriors': 1, 'New York Knicks': -1, 'Washington Wizards': 3, 'Utah Jazz': -3, 'Dallas Mavericks': 1, 'Sacramento Kings': -1, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': 1, 'Charlotte Hornets': 3, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': -1, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -3, 'Brooklyn Nets': 1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 10
+Portland Trail Blazers - Boston Celtics
+Denver Nuggets - New Orleans Pelicans
+Los Angeles Lakers - Washington Wizards
+Memphis Grizzlies - Minnesota Timberwolves
+Cleveland Cavaliers - San Antonio Spurs
+Toronto Raptors - Brooklyn Nets
+Golden State Warriors - Charlotte Hornets
+Los Angeles Clippers - Dallas Mavericks
+Sacramento Kings - Oklahoma City Thunder
+Miami Heat - New York Knicks
+Houston Rockets - Chicago Bulls
+Utah Jazz - Philadelphia 76ers
+Orlando Magic - Milwaukee Bucks
+Atlanta Hawks - Detroit Pistons
+Indiana Pacers - Phoenix Suns
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': -2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': 0, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': -2, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': 0, 'Sacramento Kings': 0, 'Los Angeles Clippers': 0, 'Oklahoma City Thunder': 0, 'Charlotte Hornets': 2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': 0, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 0, 'New Orleans Pelicans': 0, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 0, 'Indiana Pacers': 0, 'Denver Nuggets': 2}
+Round 11
+Boston Celtics - Denver Nuggets
+Portland Trail Blazers - Los Angeles Lakers
+New Orleans Pelicans - Memphis Grizzlies
+Washington Wizards - Cleveland Cavaliers
+Minnesota Timberwolves - Toronto Raptors
+San Antonio Spurs - Golden State Warriors
+Los Angeles Clippers - Brooklyn Nets
+Sacramento Kings - Charlotte Hornets
+Miami Heat - Dallas Mavericks
+Houston Rockets - Oklahoma City Thunder
+New York Knicks - Utah Jazz
+Chicago Bulls - Orlando Magic
+Philadelphia 76ers - Atlanta Hawks
+Milwaukee Bucks - Indiana Pacers
+Detroit Pistons - Phoenix Suns
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 3, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': -1, 'Portland Trail Blazers': 3, 'Golden State Warriors': 1, 'New York Knicks': -1, 'Washington Wizards': 3, 'Utah Jazz': -3, 'Dallas Mavericks': -1, 'Sacramento Kings': 1, 'Los Angeles Clippers': 1, 'Oklahoma City Thunder': -1, 'Charlotte Hornets': 1, 'Milwaukee Bucks': -1, 'Toronto Raptors': 1, 'Houston Rockets': 1, 'Phoenix Suns': -3, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -3, 'Brooklyn Nets': -1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 12
+Los Angeles Lakers - Boston Celtics
+Memphis Grizzlies - Denver Nuggets
+Cleveland Cavaliers - Portland Trail Blazers
+Toronto Raptors - New Orleans Pelicans
+Golden State Warriors - Washington Wizards
+Los Angeles Clippers - Minnesota Timberwolves
+Sacramento Kings - San Antonio Spurs
+Miami Heat - Brooklyn Nets
+Houston Rockets - Charlotte Hornets
+Utah Jazz - Dallas Mavericks
+Orlando Magic - Oklahoma City Thunder
+Atlanta Hawks - New York Knicks
+Indiana Pacers - Chicago Bulls
+Phoenix Suns - Philadelphia 76ers
+Detroit Pistons - Milwaukee Bucks
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 2, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': -2, 'Detroit Pistons': 0, 'Boston Celtics': -2, 'Miami Heat': 0, 'Orlando Magic': 0, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': -2, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': -2, 'Sacramento Kings': 2, 'Los Angeles Clippers': 2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': 0, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 0, 'New Orleans Pelicans': 0, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': -2, 'Indiana Pacers': 0, 'Denver Nuggets': 0}
+Round 13
+Boston Celtics - Memphis Grizzlies
+Los Angeles Lakers - Cleveland Cavaliers
+Denver Nuggets - Toronto Raptors
+Portland Trail Blazers - Golden State Warriors
+New Orleans Pelicans - Los Angeles Clippers
+Washington Wizards - Sacramento Kings
+Miami Heat - Minnesota Timberwolves
+San Antonio Spurs - Houston Rockets
+Brooklyn Nets - Utah Jazz
+Orlando Magic - Charlotte Hornets
+Dallas Mavericks - Atlanta Hawks
+Oklahoma City Thunder - Indiana Pacers
+New York Knicks - Phoenix Suns
+Chicago Bulls - Detroit Pistons
+Philadelphia 76ers - Milwaukee Bucks
+{'Los Angeles Lakers': 3, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 3, 'Chicago Bulls': -1, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': 1, 'Orlando Magic': 1, 'Portland Trail Blazers': 3, 'Golden State Warriors': 1, 'New York Knicks': -1, 'Washington Wizards': 3, 'Utah Jazz': -3, 'Dallas Mavericks': -1, 'Sacramento Kings': 1, 'Los Angeles Clippers': 1, 'Oklahoma City Thunder': -1, 'Charlotte Hornets': -1, 'Milwaukee Bucks': -3, 'Toronto Raptors': 1, 'Houston Rockets': 1, 'Phoenix Suns': -3, 'Minnesota Timberwolves': -1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -3, 'Brooklyn Nets': -1, 'Indiana Pacers': -1, 'Denver Nuggets': 1}
+Round 14
+Cleveland Cavaliers - Boston Celtics
+Toronto Raptors - Memphis Grizzlies
+Golden State Warriors - Los Angeles Lakers
+Los Angeles Clippers - Denver Nuggets
+Sacramento Kings - Portland Trail Blazers
+Miami Heat - New Orleans Pelicans
+Houston Rockets - Washington Wizards
+Utah Jazz - Minnesota Timberwolves
+Orlando Magic - San Antonio Spurs
+Atlanta Hawks - Brooklyn Nets
+Indiana Pacers - Charlotte Hornets
+Phoenix Suns - Dallas Mavericks
+Detroit Pistons - Oklahoma City Thunder
+Milwaukee Bucks - New York Knicks
+Philadelphia 76ers - Chicago Bulls
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 0, 'San Antonio Spurs': 2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 0, 'Detroit Pistons': 0, 'Boston Celtics': -2, 'Miami Heat': 2, 'Orlando Magic': 2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': -2, 'Washington Wizards': 2, 'Utah Jazz': -2, 'Dallas Mavericks': -2, 'Sacramento Kings': 2, 'Los Angeles Clippers': 2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 2, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': -2, 'New Orleans Pelicans': 0, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': -2, 'Indiana Pacers': 0, 'Denver Nuggets': 0}
+Round 15
+Boston Celtics - Toronto Raptors
+Cleveland Cavaliers - Golden State Warriors
+Memphis Grizzlies - Los Angeles Clippers
+Los Angeles Lakers - Sacramento Kings
+Denver Nuggets - Miami Heat
+Portland Trail Blazers - Houston Rockets
+Utah Jazz - New Orleans Pelicans
+Washington Wizards - Orlando Magic
+Minnesota Timberwolves - Atlanta Hawks
+Indiana Pacers - San Antonio Spurs
+Brooklyn Nets - Phoenix Suns
+Charlotte Hornets - Detroit Pistons
+Dallas Mavericks - Milwaukee Bucks
+Oklahoma City Thunder - Philadelphia 76ers
+New York Knicks - Chicago Bulls
+{'Los Angeles Lakers': 3, 'Memphis Grizzlies': 1, 'San Antonio Spurs': 1, 'Chicago Bulls': -3, 'Philadelphia 76ers': -1, 'Detroit Pistons': -1, 'Boston Celtics': -1, 'Miami Heat': 1, 'Orlando Magic': 1, 'Portland Trail Blazers': 3, 'Golden State Warriors': 1, 'New York Knicks': -1, 'Washington Wizards': 3, 'Utah Jazz': -1, 'Dallas Mavericks': -1, 'Sacramento Kings': 1, 'Los Angeles Clippers': 1, 'Oklahoma City Thunder': -1, 'Charlotte Hornets': -1, 'Milwaukee Bucks': -3, 'Toronto Raptors': 1, 'Houston Rockets': 1, 'Phoenix Suns': -3, 'Minnesota Timberwolves': -1, 'New Orleans Pelicans': -1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': -3, 'Brooklyn Nets': -1, 'Indiana Pacers': 1, 'Denver Nuggets': 1}
+Round 16
+Golden State Warriors - Boston Celtics
+Los Angeles Clippers - Toronto Raptors
+Sacramento Kings - Cleveland Cavaliers
+Miami Heat - Memphis Grizzlies
+Houston Rockets - Los Angeles Lakers
+Utah Jazz - Denver Nuggets
+Orlando Magic - Portland Trail Blazers
+Atlanta Hawks - New Orleans Pelicans
+Indiana Pacers - Washington Wizards
+Phoenix Suns - Minnesota Timberwolves
+Detroit Pistons - San Antonio Spurs
+Milwaukee Bucks - Brooklyn Nets
+Philadelphia 76ers - Charlotte Hornets
+Chicago Bulls - Dallas Mavericks
+New York Knicks - Oklahoma City Thunder
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': 0, 'San Antonio Spurs': 0, 'Chicago Bulls': -2, 'Philadelphia 76ers': 0, 'Detroit Pistons': 0, 'Boston Celtics': -2, 'Miami Heat': 2, 'Orlando Magic': 2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': 0, 'Washington Wizards': 2, 'Utah Jazz': 0, 'Dallas Mavericks': -2, 'Sacramento Kings': 2, 'Los Angeles Clippers': 2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 0, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': -2, 'New Orleans Pelicans': -2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': -2, 'Indiana Pacers': 2, 'Denver Nuggets': 0}
+Round 17
+Boston Celtics - Los Angeles Clippers
+Golden State Warriors - Sacramento Kings
+Toronto Raptors - Miami Heat
+Cleveland Cavaliers - Houston Rockets
+Utah Jazz - Memphis Grizzlies
+Los Angeles Lakers - Orlando Magic
+Atlanta Hawks - Denver Nuggets
+Portland Trail Blazers - Indiana Pacers
+New Orleans Pelicans - Phoenix Suns
+Detroit Pistons - Washington Wizards
+Minnesota Timberwolves - Milwaukee Bucks
+Philadelphia 76ers - San Antonio Spurs
+Brooklyn Nets - Chicago Bulls
+Charlotte Hornets - New York Knicks
+Dallas Mavericks - Oklahoma City Thunder
+{'Los Angeles Lakers': 3, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -1, 'Chicago Bulls': -3, 'Philadelphia 76ers': 1, 'Detroit Pistons': 1, 'Boston Celtics': -1, 'Miami Heat': 1, 'Orlando Magic': 1, 'Portland Trail Blazers': 3, 'Golden State Warriors': 3, 'New York Knicks': -1, 'Washington Wizards': 1, 'Utah Jazz': 1, 'Dallas Mavericks': -1, 'Sacramento Kings': 1, 'Los Angeles Clippers': 1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -1, 'Milwaukee Bucks': -3, 'Toronto Raptors': 1, 'Houston Rockets': 1, 'Phoenix Suns': -3, 'Minnesota Timberwolves': -1, 'New Orleans Pelicans': -1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': -1, 'Brooklyn Nets': -1, 'Indiana Pacers': 1, 'Denver Nuggets': -1}
+Round 18
+Sacramento Kings - Boston Celtics
+Miami Heat - Los Angeles Clippers
+Houston Rockets - Golden State Warriors
+Utah Jazz - Toronto Raptors
+Orlando Magic - Cleveland Cavaliers
+Atlanta Hawks - Memphis Grizzlies
+Indiana Pacers - Los Angeles Lakers
+Phoenix Suns - Denver Nuggets
+Detroit Pistons - Portland Trail Blazers
+Milwaukee Bucks - New Orleans Pelicans
+Philadelphia 76ers - Washington Wizards
+Chicago Bulls - Minnesota Timberwolves
+New York Knicks - San Antonio Spurs
+Oklahoma City Thunder - Brooklyn Nets
+Dallas Mavericks - Charlotte Hornets
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': -2, 'San Antonio Spurs': -2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': 2, 'Orlando Magic': 2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': 0, 'Washington Wizards': 0, 'Utah Jazz': 2, 'Dallas Mavericks': 0, 'Sacramento Kings': 2, 'Los Angeles Clippers': 0, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': -2, 'Toronto Raptors': 0, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': -2, 'New Orleans Pelicans': -2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': 0, 'Brooklyn Nets': -2, 'Indiana Pacers': 2, 'Denver Nuggets': -2}
+Round 19
+Boston Celtics - Miami Heat
+Sacramento Kings - Houston Rockets
+Los Angeles Clippers - Utah Jazz
+Golden State Warriors - Orlando Magic
+Atlanta Hawks - Toronto Raptors
+Cleveland Cavaliers - Indiana Pacers
+Memphis Grizzlies - Phoenix Suns
+Los Angeles Lakers - Detroit Pistons
+Denver Nuggets - Milwaukee Bucks
+Portland Trail Blazers - Philadelphia 76ers
+New Orleans Pelicans - Chicago Bulls
+New York Knicks - Washington Wizards
+Minnesota Timberwolves - Oklahoma City Thunder
+San Antonio Spurs - Dallas Mavericks
+Brooklyn Nets - Charlotte Hornets
+{'Los Angeles Lakers': 3, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -1, 'Chicago Bulls': -3, 'Philadelphia 76ers': 1, 'Detroit Pistons': 1, 'Boston Celtics': -1, 'Miami Heat': 1, 'Orlando Magic': 1, 'Portland Trail Blazers': 3, 'Golden State Warriors': 3, 'New York Knicks': 1, 'Washington Wizards': -1, 'Utah Jazz': 1, 'Dallas Mavericks': -1, 'Sacramento Kings': 3, 'Los Angeles Clippers': 1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -3, 'Milwaukee Bucks': -3, 'Toronto Raptors': -1, 'Houston Rockets': 1, 'Phoenix Suns': -3, 'Minnesota Timberwolves': -1, 'New Orleans Pelicans': -1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': 1, 'Brooklyn Nets': -1, 'Indiana Pacers': 1, 'Denver Nuggets': -1}
+Round 20
+Houston Rockets - Boston Celtics
+Utah Jazz - Miami Heat
+Orlando Magic - Sacramento Kings
+Atlanta Hawks - Los Angeles Clippers
+Indiana Pacers - Golden State Warriors
+Phoenix Suns - Toronto Raptors
+Detroit Pistons - Cleveland Cavaliers
+Milwaukee Bucks - Memphis Grizzlies
+Philadelphia 76ers - Los Angeles Lakers
+Chicago Bulls - Denver Nuggets
+New York Knicks - Portland Trail Blazers
+Oklahoma City Thunder - New Orleans Pelicans
+Dallas Mavericks - Washington Wizards
+Charlotte Hornets - Minnesota Timberwolves
+Brooklyn Nets - San Antonio Spurs
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': -2, 'San Antonio Spurs': -2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': 0, 'Orlando Magic': 2, 'Portland Trail Blazers': 2, 'Golden State Warriors': 2, 'New York Knicks': 2, 'Washington Wizards': -2, 'Utah Jazz': 2, 'Dallas Mavericks': 0, 'Sacramento Kings': 2, 'Los Angeles Clippers': 0, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': -2, 'Toronto Raptors': -2, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': -2, 'New Orleans Pelicans': -2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': 2, 'Brooklyn Nets': 0, 'Indiana Pacers': 2, 'Denver Nuggets': -2}
+Round 21
+Boston Celtics - Utah Jazz
+Houston Rockets - Orlando Magic
+Miami Heat - Atlanta Hawks
+Sacramento Kings - Indiana Pacers
+Phoenix Suns - Los Angeles Clippers
+Golden State Warriors - Detroit Pistons
+Toronto Raptors - Milwaukee Bucks
+Cleveland Cavaliers - Philadelphia 76ers
+Memphis Grizzlies - Chicago Bulls
+Los Angeles Lakers - New York Knicks
+Denver Nuggets - Oklahoma City Thunder
+Dallas Mavericks - Portland Trail Blazers
+New Orleans Pelicans - Charlotte Hornets
+Washington Wizards - Brooklyn Nets
+Minnesota Timberwolves - San Antonio Spurs
+{'Los Angeles Lakers': 3, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -3, 'Chicago Bulls': -3, 'Philadelphia 76ers': 1, 'Detroit Pistons': 1, 'Boston Celtics': -1, 'Miami Heat': 1, 'Orlando Magic': 1, 'Portland Trail Blazers': 1, 'Golden State Warriors': 3, 'New York Knicks': 1, 'Washington Wizards': -1, 'Utah Jazz': 1, 'Dallas Mavericks': 1, 'Sacramento Kings': 3, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -3, 'Milwaukee Bucks': -3, 'Toronto Raptors': -1, 'Houston Rockets': 3, 'Phoenix Suns': -1, 'Minnesota Timberwolves': -1, 'New Orleans Pelicans': -1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': 1, 'Brooklyn Nets': -1, 'Indiana Pacers': 1, 'Denver Nuggets': -1}
+Round 22
+Orlando Magic - Boston Celtics
+Atlanta Hawks - Utah Jazz
+Indiana Pacers - Houston Rockets
+Phoenix Suns - Miami Heat
+Detroit Pistons - Sacramento Kings
+Milwaukee Bucks - Los Angeles Clippers
+Philadelphia 76ers - Golden State Warriors
+Chicago Bulls - Toronto Raptors
+New York Knicks - Cleveland Cavaliers
+Oklahoma City Thunder - Memphis Grizzlies
+Dallas Mavericks - Los Angeles Lakers
+Charlotte Hornets - Denver Nuggets
+Brooklyn Nets - Portland Trail Blazers
+San Antonio Spurs - New Orleans Pelicans
+Minnesota Timberwolves - Washington Wizards
+{'Los Angeles Lakers': 2, 'Memphis Grizzlies': -2, 'San Antonio Spurs': -2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': 0, 'Orlando Magic': 2, 'Portland Trail Blazers': 0, 'Golden State Warriors': 2, 'New York Knicks': 2, 'Washington Wizards': -2, 'Utah Jazz': 0, 'Dallas Mavericks': 2, 'Sacramento Kings': 2, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': -2, 'Toronto Raptors': -2, 'Houston Rockets': 2, 'Phoenix Suns': 0, 'Minnesota Timberwolves': 0, 'New Orleans Pelicans': -2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': 2, 'Brooklyn Nets': 0, 'Indiana Pacers': 2, 'Denver Nuggets': -2}
+Round 23
+Boston Celtics - Atlanta Hawks
+Orlando Magic - Indiana Pacers
+Phoenix Suns - Utah Jazz
+Houston Rockets - Detroit Pistons
+Milwaukee Bucks - Miami Heat
+Sacramento Kings - Philadelphia 76ers
+Los Angeles Clippers - Chicago Bulls
+Golden State Warriors - New York Knicks
+Toronto Raptors - Oklahoma City Thunder
+Cleveland Cavaliers - Dallas Mavericks
+Memphis Grizzlies - Charlotte Hornets
+Brooklyn Nets - Los Angeles Lakers
+Denver Nuggets - San Antonio Spurs
+Minnesota Timberwolves - Portland Trail Blazers
+New Orleans Pelicans - Washington Wizards
+{'Los Angeles Lakers': 1, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -3, 'Chicago Bulls': -3, 'Philadelphia 76ers': 1, 'Detroit Pistons': 1, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': 3, 'Portland Trail Blazers': -1, 'Golden State Warriors': 3, 'New York Knicks': 1, 'Washington Wizards': -3, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': 3, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -3, 'Milwaukee Bucks': -1, 'Toronto Raptors': -1, 'Houston Rockets': 3, 'Phoenix Suns': 1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': -1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': 1, 'Brooklyn Nets': 1, 'Indiana Pacers': 1, 'Denver Nuggets': -1}
+Round 24
+Indiana Pacers - Boston Celtics
+Phoenix Suns - Atlanta Hawks
+Detroit Pistons - Orlando Magic
+Milwaukee Bucks - Utah Jazz
+Philadelphia 76ers - Houston Rockets
+Chicago Bulls - Miami Heat
+New York Knicks - Sacramento Kings
+Oklahoma City Thunder - Los Angeles Clippers
+Dallas Mavericks - Golden State Warriors
+Charlotte Hornets - Toronto Raptors
+Brooklyn Nets - Cleveland Cavaliers
+San Antonio Spurs - Memphis Grizzlies
+Minnesota Timberwolves - Los Angeles Lakers
+Washington Wizards - Denver Nuggets
+New Orleans Pelicans - Portland Trail Blazers
+{'Los Angeles Lakers': 0, 'Memphis Grizzlies': -2, 'San Antonio Spurs': -2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': 2, 'Portland Trail Blazers': -2, 'Golden State Warriors': 2, 'New York Knicks': 2, 'Washington Wizards': -2, 'Utah Jazz': -2, 'Dallas Mavericks': 2, 'Sacramento Kings': 2, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': 0, 'Toronto Raptors': -2, 'Houston Rockets': 2, 'Phoenix Suns': 2, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 0, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': 0, 'Brooklyn Nets': 2, 'Indiana Pacers': 2, 'Denver Nuggets': -2}
+Round 25
+Boston Celtics - Phoenix Suns
+Indiana Pacers - Detroit Pistons
+Milwaukee Bucks - Atlanta Hawks
+Orlando Magic - Philadelphia 76ers
+Utah Jazz - Chicago Bulls
+Houston Rockets - New York Knicks
+Miami Heat - Oklahoma City Thunder
+Sacramento Kings - Dallas Mavericks
+Los Angeles Clippers - Charlotte Hornets
+Golden State Warriors - Brooklyn Nets
+Toronto Raptors - San Antonio Spurs
+Cleveland Cavaliers - Minnesota Timberwolves
+Memphis Grizzlies - Washington Wizards
+New Orleans Pelicans - Los Angeles Lakers
+Denver Nuggets - Portland Trail Blazers
+{'Los Angeles Lakers': -1, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -3, 'Chicago Bulls': -3, 'Philadelphia 76ers': 1, 'Detroit Pistons': 1, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': 3, 'Portland Trail Blazers': -3, 'Golden State Warriors': 3, 'New York Knicks': 1, 'Washington Wizards': -3, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': 3, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -3, 'Milwaukee Bucks': 1, 'Toronto Raptors': -1, 'Houston Rockets': 3, 'Phoenix Suns': 1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 3, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': 3, 'Denver Nuggets': -1}
+Round 26
+Detroit Pistons - Boston Celtics
+Milwaukee Bucks - Phoenix Suns
+Philadelphia 76ers - Indiana Pacers
+Chicago Bulls - Atlanta Hawks
+New York Knicks - Orlando Magic
+Oklahoma City Thunder - Utah Jazz
+Dallas Mavericks - Houston Rockets
+Charlotte Hornets - Miami Heat
+Brooklyn Nets - Sacramento Kings
+San Antonio Spurs - Los Angeles Clippers
+Minnesota Timberwolves - Golden State Warriors
+Washington Wizards - Toronto Raptors
+New Orleans Pelicans - Cleveland Cavaliers
+Portland Trail Blazers - Memphis Grizzlies
+Denver Nuggets - Los Angeles Lakers
+{'Los Angeles Lakers': -2, 'Memphis Grizzlies': -2, 'San Antonio Spurs': -2, 'Chicago Bulls': -2, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': 2, 'Portland Trail Blazers': -2, 'Golden State Warriors': 2, 'New York Knicks': 2, 'Washington Wizards': -2, 'Utah Jazz': -2, 'Dallas Mavericks': 2, 'Sacramento Kings': 2, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': 2, 'Toronto Raptors': -2, 'Houston Rockets': 2, 'Phoenix Suns': 0, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 2, 'Atlanta Hawks': -2, 'Brooklyn Nets': 2, 'Indiana Pacers': 2, 'Denver Nuggets': 0}
+Round 27
+Boston Celtics - Milwaukee Bucks
+Detroit Pistons - Philadelphia 76ers
+Chicago Bulls - Phoenix Suns
+Indiana Pacers - New York Knicks
+Atlanta Hawks - Oklahoma City Thunder
+Orlando Magic - Dallas Mavericks
+Utah Jazz - Charlotte Hornets
+Houston Rockets - Brooklyn Nets
+Miami Heat - San Antonio Spurs
+Sacramento Kings - Minnesota Timberwolves
+Los Angeles Clippers - Washington Wizards
+Golden State Warriors - New Orleans Pelicans
+Toronto Raptors - Portland Trail Blazers
+Denver Nuggets - Cleveland Cavaliers
+Memphis Grizzlies - Los Angeles Lakers
+{'Los Angeles Lakers': -3, 'Memphis Grizzlies': -1, 'San Antonio Spurs': -3, 'Chicago Bulls': -1, 'Philadelphia 76ers': 1, 'Detroit Pistons': 3, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': 3, 'Portland Trail Blazers': -3, 'Golden State Warriors': 3, 'New York Knicks': 1, 'Washington Wizards': -3, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': 3, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': -3, 'Charlotte Hornets': -3, 'Milwaukee Bucks': 1, 'Toronto Raptors': -1, 'Houston Rockets': 3, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': 1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': 3, 'Denver Nuggets': 1}
+Round 28
+Philadelphia 76ers - Boston Celtics
+Chicago Bulls - Milwaukee Bucks
+New York Knicks - Detroit Pistons
+Oklahoma City Thunder - Phoenix Suns
+Dallas Mavericks - Indiana Pacers
+Charlotte Hornets - Atlanta Hawks
+Brooklyn Nets - Orlando Magic
+San Antonio Spurs - Utah Jazz
+Minnesota Timberwolves - Houston Rockets
+Washington Wizards - Miami Heat
+New Orleans Pelicans - Sacramento Kings
+Portland Trail Blazers - Los Angeles Clippers
+Denver Nuggets - Golden State Warriors
+Los Angeles Lakers - Toronto Raptors
+Memphis Grizzlies - Cleveland Cavaliers
+{'Los Angeles Lakers': -2, 'Memphis Grizzlies': 0, 'San Antonio Spurs': -2, 'Chicago Bulls': 0, 'Philadelphia 76ers': 2, 'Detroit Pistons': 2, 'Boston Celtics': -2, 'Miami Heat': -2, 'Orlando Magic': 2, 'Portland Trail Blazers': -2, 'Golden State Warriors': 2, 'New York Knicks': 2, 'Washington Wizards': -2, 'Utah Jazz': -2, 'Dallas Mavericks': 2, 'Sacramento Kings': 2, 'Los Angeles Clippers': -2, 'Oklahoma City Thunder': -2, 'Charlotte Hornets': -2, 'Milwaukee Bucks': 0, 'Toronto Raptors': -2, 'Houston Rockets': 2, 'Phoenix Suns': -2, 'Minnesota Timberwolves': 2, 'New Orleans Pelicans': 2, 'Cleveland Cavaliers': 0, 'Atlanta Hawks': -2, 'Brooklyn Nets': 2, 'Indiana Pacers': 2, 'Denver Nuggets': 2}
+Round 29
+Boston Celtics - Chicago Bulls
+Philadelphia 76ers - New York Knicks
+Oklahoma City Thunder - Milwaukee Bucks
+Detroit Pistons - Dallas Mavericks
+Phoenix Suns - Charlotte Hornets
+Indiana Pacers - Brooklyn Nets
+Atlanta Hawks - San Antonio Spurs
+Orlando Magic - Minnesota Timberwolves
+Utah Jazz - Washington Wizards
+Houston Rockets - New Orleans Pelicans
+Miami Heat - Portland Trail Blazers
+Sacramento Kings - Denver Nuggets
+Los Angeles Clippers - Los Angeles Lakers
+Memphis Grizzlies - Golden State Warriors
+Toronto Raptors - Cleveland Cavaliers
+{'Los Angeles Lakers': -3, 'Memphis Grizzlies': 1, 'San Antonio Spurs': -3, 'Chicago Bulls': -1, 'Philadelphia 76ers': 3, 'Detroit Pistons': 3, 'Boston Celtics': -1, 'Miami Heat': -1, 'Orlando Magic': 3, 'Portland Trail Blazers': -3, 'Golden State Warriors': 1, 'New York Knicks': 1, 'Washington Wizards': -3, 'Utah Jazz': -1, 'Dallas Mavericks': 1, 'Sacramento Kings': 3, 'Los Angeles Clippers': -1, 'Oklahoma City Thunder': -1, 'Charlotte Hornets': -3, 'Milwaukee Bucks': -1, 'Toronto Raptors': -1, 'Houston Rockets': 3, 'Phoenix Suns': -1, 'Minnesota Timberwolves': 1, 'New Orleans Pelicans': 1, 'Cleveland Cavaliers': -1, 'Atlanta Hawks': -1, 'Brooklyn Nets': 1, 'Indiana Pacers': 3, 'Denver Nuggets': 1}
+Round 30
+Chicago Bulls - Boston Celtics
+New York Knicks - Philadelphia 76ers
+Milwaukee Bucks - Oklahoma City Thunder
+Dallas Mavericks - Detroit Pistons
+Charlotte Hornets - Phoenix Suns
+Brooklyn Nets - Indiana Pacers
+San Antonio Spurs - Atlanta Hawks
+Minnesota Timberwolves - Orlando Magic
+Washington Wizards - Utah Jazz
+New Orleans Pelicans - Houston Rockets
+Portland Trail Blazers - Miami Heat
+Denver Nuggets - Sacramento Kings
+Los Angeles Lakers - Los Angeles Clippers
+Golden State Warriors - Memphis Grizzlies
+Cleveland Cavaliers - Toronto Raptors
+Round 31
+Boston Celtics - Philadelphia 76ers
+Milwaukee Bucks - Chicago Bulls
+Detroit Pistons - New York Knicks
+Phoenix Suns - Oklahoma City Thunder
+Indiana Pacers - Dallas Mavericks
+Atlanta Hawks - Charlotte Hornets
+Orlando Magic - Brooklyn Nets
+Utah Jazz - San Antonio Spurs
+Houston Rockets - Minnesota Timberwolves
+Miami Heat - Washington Wizards
+Sacramento Kings - New Orleans Pelicans
+Los Angeles Clippers - Portland Trail Blazers
+Golden State Warriors - Denver Nuggets
+Toronto Raptors - Los Angeles Lakers
+Cleveland Cavaliers - Memphis Grizzlies
+Round 32
+Milwaukee Bucks - Boston Celtics
+Philadelphia 76ers - Detroit Pistons
+Phoenix Suns - Chicago Bulls
+New York Knicks - Indiana Pacers
+Oklahoma City Thunder - Atlanta Hawks
+Dallas Mavericks - Orlando Magic
+Charlotte Hornets - Utah Jazz
+Brooklyn Nets - Houston Rockets
+San Antonio Spurs - Miami Heat
+Minnesota Timberwolves - Sacramento Kings
+Washington Wizards - Los Angeles Clippers
+New Orleans Pelicans - Golden State Warriors
+Portland Trail Blazers - Toronto Raptors
+Cleveland Cavaliers - Denver Nuggets
+Los Angeles Lakers - Memphis Grizzlies
+Round 33
+Boston Celtics - Detroit Pistons
+Phoenix Suns - Milwaukee Bucks
+Indiana Pacers - Philadelphia 76ers
+Atlanta Hawks - Chicago Bulls
+Orlando Magic - New York Knicks
+Utah Jazz - Oklahoma City Thunder
+Houston Rockets - Dallas Mavericks
+Miami Heat - Charlotte Hornets
+Sacramento Kings - Brooklyn Nets
+Los Angeles Clippers - San Antonio Spurs
+Golden State Warriors - Minnesota Timberwolves
+Toronto Raptors - Washington Wizards
+Cleveland Cavaliers - New Orleans Pelicans
+Memphis Grizzlies - Portland Trail Blazers
+Los Angeles Lakers - Denver Nuggets
+Round 34
+Phoenix Suns - Boston Celtics
+Detroit Pistons - Indiana Pacers
+Atlanta Hawks - Milwaukee Bucks
+Philadelphia 76ers - Orlando Magic
+Chicago Bulls - Utah Jazz
+New York Knicks - Houston Rockets
+Oklahoma City Thunder - Miami Heat
+Dallas Mavericks - Sacramento Kings
+Charlotte Hornets - Los Angeles Clippers
+Brooklyn Nets - Golden State Warriors
+San Antonio Spurs - Toronto Raptors
+Minnesota Timberwolves - Cleveland Cavaliers
+Washington Wizards - Memphis Grizzlies
+Los Angeles Lakers - New Orleans Pelicans
+Portland Trail Blazers - Denver Nuggets
+Round 35
+Boston Celtics - Indiana Pacers
+Atlanta Hawks - Phoenix Suns
+Orlando Magic - Detroit Pistons
+Utah Jazz - Milwaukee Bucks
+Houston Rockets - Philadelphia 76ers
+Miami Heat - Chicago Bulls
+Sacramento Kings - New York Knicks
+Los Angeles Clippers - Oklahoma City Thunder
+Golden State Warriors - Dallas Mavericks
+Toronto Raptors - Charlotte Hornets
+Cleveland Cavaliers - Brooklyn Nets
+Memphis Grizzlies - San Antonio Spurs
+Los Angeles Lakers - Minnesota Timberwolves
+Denver Nuggets - Washington Wizards
+Portland Trail Blazers - New Orleans Pelicans
+Round 36
+Atlanta Hawks - Boston Celtics
+Indiana Pacers - Orlando Magic
+Utah Jazz - Phoenix Suns
+Detroit Pistons - Houston Rockets
+Miami Heat - Milwaukee Bucks
+Philadelphia 76ers - Sacramento Kings
+Chicago Bulls - Los Angeles Clippers
+New York Knicks - Golden State Warriors
+Oklahoma City Thunder - Toronto Raptors
+Dallas Mavericks - Cleveland Cavaliers
+Charlotte Hornets - Memphis Grizzlies
+Los Angeles Lakers - Brooklyn Nets
+San Antonio Spurs - Denver Nuggets
+Portland Trail Blazers - Minnesota Timberwolves
+Washington Wizards - New Orleans Pelicans
+Round 37
+Boston Celtics - Orlando Magic
+Utah Jazz - Atlanta Hawks
+Houston Rockets - Indiana Pacers
+Miami Heat - Phoenix Suns
+Sacramento Kings - Detroit Pistons
+Los Angeles Clippers - Milwaukee Bucks
+Golden State Warriors - Philadelphia 76ers
+Toronto Raptors - Chicago Bulls
+Cleveland Cavaliers - New York Knicks
+Memphis Grizzlies - Oklahoma City Thunder
+Los Angeles Lakers - Dallas Mavericks
+Denver Nuggets - Charlotte Hornets
+Portland Trail Blazers - Brooklyn Nets
+New Orleans Pelicans - San Antonio Spurs
+Washington Wizards - Minnesota Timberwolves
+Round 38
+Utah Jazz - Boston Celtics
+Orlando Magic - Houston Rockets
+Atlanta Hawks - Miami Heat
+Indiana Pacers - Sacramento Kings
+Los Angeles Clippers - Phoenix Suns
+Detroit Pistons - Golden State Warriors
+Milwaukee Bucks - Toronto Raptors
+Philadelphia 76ers - Cleveland Cavaliers
+Chicago Bulls - Memphis Grizzlies
+New York Knicks - Los Angeles Lakers
+Oklahoma City Thunder - Denver Nuggets
+Portland Trail Blazers - Dallas Mavericks
+Charlotte Hornets - New Orleans Pelicans
+Brooklyn Nets - Washington Wizards
+San Antonio Spurs - Minnesota Timberwolves
+Round 39
+Boston Celtics - Houston Rockets
+Miami Heat - Utah Jazz
+Sacramento Kings - Orlando Magic
+Los Angeles Clippers - Atlanta Hawks
+Golden State Warriors - Indiana Pacers
+Toronto Raptors - Phoenix Suns
+Cleveland Cavaliers - Detroit Pistons
+Memphis Grizzlies - Milwaukee Bucks
+Los Angeles Lakers - Philadelphia 76ers
+Denver Nuggets - Chicago Bulls
+Portland Trail Blazers - New York Knicks
+New Orleans Pelicans - Oklahoma City Thunder
+Washington Wizards - Dallas Mavericks
+Minnesota Timberwolves - Charlotte Hornets
+San Antonio Spurs - Brooklyn Nets
+Round 40
+Miami Heat - Boston Celtics
+Houston Rockets - Sacramento Kings
+Utah Jazz - Los Angeles Clippers
+Orlando Magic - Golden State Warriors
+Toronto Raptors - Atlanta Hawks
+Indiana Pacers - Cleveland Cavaliers
+Phoenix Suns - Memphis Grizzlies
+Detroit Pistons - Los Angeles Lakers
+Milwaukee Bucks - Denver Nuggets
+Philadelphia 76ers - Portland Trail Blazers
+Chicago Bulls - New Orleans Pelicans
+Washington Wizards - New York Knicks
+Oklahoma City Thunder - Minnesota Timberwolves
+Dallas Mavericks - San Antonio Spurs
+Charlotte Hornets - Brooklyn Nets
+Round 41
+Boston Celtics - Sacramento Kings
+Los Angeles Clippers - Miami Heat
+Golden State Warriors - Houston Rockets
+Toronto Raptors - Utah Jazz
+Cleveland Cavaliers - Orlando Magic
+Memphis Grizzlies - Atlanta Hawks
+Los Angeles Lakers - Indiana Pacers
+Denver Nuggets - Phoenix Suns
+Portland Trail Blazers - Detroit Pistons
+New Orleans Pelicans - Milwaukee Bucks
+Washington Wizards - Philadelphia 76ers
+Minnesota Timberwolves - Chicago Bulls
+San Antonio Spurs - New York Knicks
+Brooklyn Nets - Oklahoma City Thunder
+Charlotte Hornets - Dallas Mavericks
+Round 42
+Los Angeles Clippers - Boston Celtics
+Sacramento Kings - Golden State Warriors
+Miami Heat - Toronto Raptors
+Houston Rockets - Cleveland Cavaliers
+Memphis Grizzlies - Utah Jazz
+Orlando Magic - Los Angeles Lakers
+Denver Nuggets - Atlanta Hawks
+Indiana Pacers - Portland Trail Blazers
+Phoenix Suns - New Orleans Pelicans
+Washington Wizards - Detroit Pistons
+Milwaukee Bucks - Minnesota Timberwolves
+San Antonio Spurs - Philadelphia 76ers
+Chicago Bulls - Brooklyn Nets
+New York Knicks - Charlotte Hornets
+Oklahoma City Thunder - Dallas Mavericks
+Round 43
+Boston Celtics - Golden State Warriors
+Toronto Raptors - Los Angeles Clippers
+Cleveland Cavaliers - Sacramento Kings
+Memphis Grizzlies - Miami Heat
+Los Angeles Lakers - Houston Rockets
+Denver Nuggets - Utah Jazz
+Portland Trail Blazers - Orlando Magic
+New Orleans Pelicans - Atlanta Hawks
+Washington Wizards - Indiana Pacers
+Minnesota Timberwolves - Phoenix Suns
+San Antonio Spurs - Detroit Pistons
+Brooklyn Nets - Milwaukee Bucks
+Charlotte Hornets - Philadelphia 76ers
+Dallas Mavericks - Chicago Bulls
+Oklahoma City Thunder - New York Knicks
+Round 44
+Toronto Raptors - Boston Celtics
+Golden State Warriors - Cleveland Cavaliers
+Los Angeles Clippers - Memphis Grizzlies
+Sacramento Kings - Los Angeles Lakers
+Miami Heat - Denver Nuggets
+Houston Rockets - Portland Trail Blazers
+New Orleans Pelicans - Utah Jazz
+Orlando Magic - Washington Wizards
+Atlanta Hawks - Minnesota Timberwolves
+San Antonio Spurs - Indiana Pacers
+Phoenix Suns - Brooklyn Nets
+Detroit Pistons - Charlotte Hornets
+Milwaukee Bucks - Dallas Mavericks
+Philadelphia 76ers - Oklahoma City Thunder
+Chicago Bulls - New York Knicks
+Round 45
+Boston Celtics - Cleveland Cavaliers
+Memphis Grizzlies - Toronto Raptors
+Los Angeles Lakers - Golden State Warriors
+Denver Nuggets - Los Angeles Clippers
+Portland Trail Blazers - Sacramento Kings
+New Orleans Pelicans - Miami Heat
+Washington Wizards - Houston Rockets
+Minnesota Timberwolves - Utah Jazz
+San Antonio Spurs - Orlando Magic
+Brooklyn Nets - Atlanta Hawks
+Charlotte Hornets - Indiana Pacers
+Dallas Mavericks - Phoenix Suns
+Oklahoma City Thunder - Detroit Pistons
+New York Knicks - Milwaukee Bucks
+Chicago Bulls - Philadelphia 76ers
+Round 46
+Memphis Grizzlies - Boston Celtics
+Cleveland Cavaliers - Los Angeles Lakers
+Toronto Raptors - Denver Nuggets
+Golden State Warriors - Portland Trail Blazers
+Los Angeles Clippers - New Orleans Pelicans
+Sacramento Kings - Washington Wizards
+Minnesota Timberwolves - Miami Heat
+Houston Rockets - San Antonio Spurs
+Utah Jazz - Brooklyn Nets
+Charlotte Hornets - Orlando Magic
+Atlanta Hawks - Dallas Mavericks
+Indiana Pacers - Oklahoma City Thunder
+Phoenix Suns - New York Knicks
+Detroit Pistons - Chicago Bulls
+Milwaukee Bucks - Philadelphia 76ers
+Round 47
+Boston Celtics - Los Angeles Lakers
+Denver Nuggets - Memphis Grizzlies
+Portland Trail Blazers - Cleveland Cavaliers
+New Orleans Pelicans - Toronto Raptors
+Washington Wizards - Golden State Warriors
+Minnesota Timberwolves - Los Angeles Clippers
+San Antonio Spurs - Sacramento Kings
+Brooklyn Nets - Miami Heat
+Charlotte Hornets - Houston Rockets
+Dallas Mavericks - Utah Jazz
+Oklahoma City Thunder - Orlando Magic
+New York Knicks - Atlanta Hawks
+Chicago Bulls - Indiana Pacers
+Philadelphia 76ers - Phoenix Suns
+Milwaukee Bucks - Detroit Pistons
+Round 48
+Denver Nuggets - Boston Celtics
+Los Angeles Lakers - Portland Trail Blazers
+Memphis Grizzlies - New Orleans Pelicans
+Cleveland Cavaliers - Washington Wizards
+Toronto Raptors - Minnesota Timberwolves
+Golden State Warriors - San Antonio Spurs
+Brooklyn Nets - Los Angeles Clippers
+Charlotte Hornets - Sacramento Kings
+Dallas Mavericks - Miami Heat
+Oklahoma City Thunder - Houston Rockets
+Utah Jazz - New York Knicks
+Orlando Magic - Chicago Bulls
+Atlanta Hawks - Philadelphia 76ers
+Indiana Pacers - Milwaukee Bucks
+Phoenix Suns - Detroit Pistons
+Round 49
+Boston Celtics - Portland Trail Blazers
+New Orleans Pelicans - Denver Nuggets
+Washington Wizards - Los Angeles Lakers
+Minnesota Timberwolves - Memphis Grizzlies
+San Antonio Spurs - Cleveland Cavaliers
+Brooklyn Nets - Toronto Raptors
+Charlotte Hornets - Golden State Warriors
+Dallas Mavericks - Los Angeles Clippers
+Oklahoma City Thunder - Sacramento Kings
+New York Knicks - Miami Heat
+Chicago Bulls - Houston Rockets
+Philadelphia 76ers - Utah Jazz
+Milwaukee Bucks - Orlando Magic
+Detroit Pistons - Atlanta Hawks
+Phoenix Suns - Indiana Pacers
+Round 50
+New Orleans Pelicans - Boston Celtics
+Portland Trail Blazers - Washington Wizards
+Denver Nuggets - Minnesota Timberwolves
+Los Angeles Lakers - San Antonio Spurs
+Memphis Grizzlies - Brooklyn Nets
+Cleveland Cavaliers - Charlotte Hornets
+Toronto Raptors - Dallas Mavericks
+Oklahoma City Thunder - Golden State Warriors
+New York Knicks - Los Angeles Clippers
+Sacramento Kings - Chicago Bulls
+Miami Heat - Philadelphia 76ers
+Houston Rockets - Milwaukee Bucks
+Utah Jazz - Detroit Pistons
+Orlando Magic - Phoenix Suns
+Atlanta Hawks - Indiana Pacers
+Round 51
+Boston Celtics - Washington Wizards
+Minnesota Timberwolves - New Orleans Pelicans
+San Antonio Spurs - Portland Trail Blazers
+Brooklyn Nets - Denver Nuggets
+Charlotte Hornets - Los Angeles Lakers
+Dallas Mavericks - Memphis Grizzlies
+Oklahoma City Thunder - Cleveland Cavaliers
+New York Knicks - Toronto Raptors
+Chicago Bulls - Golden State Warriors
+Philadelphia 76ers - Los Angeles Clippers
+Milwaukee Bucks - Sacramento Kings
+Detroit Pistons - Miami Heat
+Phoenix Suns - Houston Rockets
+Indiana Pacers - Utah Jazz
+Atlanta Hawks - Orlando Magic
+Round 52
+Minnesota Timberwolves - Boston Celtics
+Washington Wizards - San Antonio Spurs
+New Orleans Pelicans - Brooklyn Nets
+Portland Trail Blazers - Charlotte Hornets
+Denver Nuggets - Dallas Mavericks
+Los Angeles Lakers - Oklahoma City Thunder
+Memphis Grizzlies - New York Knicks
+Cleveland Cavaliers - Chicago Bulls
+Toronto Raptors - Philadelphia 76ers
+Golden State Warriors - Milwaukee Bucks
+Los Angeles Clippers - Detroit Pistons
+Sacramento Kings - Phoenix Suns
+Miami Heat - Indiana Pacers
+Houston Rockets - Atlanta Hawks
+Utah Jazz - Orlando Magic
+Round 53
+Boston Celtics - San Antonio Spurs
+Brooklyn Nets - Minnesota Timberwolves
+Charlotte Hornets - Washington Wizards
+Dallas Mavericks - New Orleans Pelicans
+Oklahoma City Thunder - Portland Trail Blazers
+New York Knicks - Denver Nuggets
+Chicago Bulls - Los Angeles Lakers
+Philadelphia 76ers - Memphis Grizzlies
+Milwaukee Bucks - Cleveland Cavaliers
+Detroit Pistons - Toronto Raptors
+Phoenix Suns - Golden State Warriors
+Indiana Pacers - Los Angeles Clippers
+Atlanta Hawks - Sacramento Kings
+Orlando Magic - Miami Heat
+Utah Jazz - Houston Rockets
+Round 54
+Brooklyn Nets - Boston Celtics
+San Antonio Spurs - Charlotte Hornets
+Minnesota Timberwolves - Dallas Mavericks
+Washington Wizards - Oklahoma City Thunder
+New Orleans Pelicans - New York Knicks
+Portland Trail Blazers - Chicago Bulls
+Denver Nuggets - Philadelphia 76ers
+Los Angeles Lakers - Milwaukee Bucks
+Memphis Grizzlies - Detroit Pistons
+Cleveland Cavaliers - Phoenix Suns
+Toronto Raptors - Indiana Pacers
+Golden State Warriors - Atlanta Hawks
+Los Angeles Clippers - Orlando Magic
+Sacramento Kings - Utah Jazz
+Miami Heat - Houston Rockets
+Round 55
+Boston Celtics - Charlotte Hornets
+Dallas Mavericks - Brooklyn Nets
+Oklahoma City Thunder - San Antonio Spurs
+New York Knicks - Minnesota Timberwolves
+Chicago Bulls - Washington Wizards
+Philadelphia 76ers - New Orleans Pelicans
+Milwaukee Bucks - Portland Trail Blazers
+Detroit Pistons - Denver Nuggets
+Phoenix Suns - Los Angeles Lakers
+Indiana Pacers - Memphis Grizzlies
+Atlanta Hawks - Cleveland Cavaliers
+Orlando Magic - Toronto Raptors
+Utah Jazz - Golden State Warriors
+Houston Rockets - Los Angeles Clippers
+Miami Heat - Sacramento Kings
+Round 56
+Dallas Mavericks - Boston Celtics
+Charlotte Hornets - Oklahoma City Thunder
+Brooklyn Nets - New York Knicks
+San Antonio Spurs - Chicago Bulls
+Minnesota Timberwolves - Philadelphia 76ers
+Washington Wizards - Milwaukee Bucks
+New Orleans Pelicans - Detroit Pistons
+Portland Trail Blazers - Phoenix Suns
+Denver Nuggets - Indiana Pacers
+Los Angeles Lakers - Atlanta Hawks
+Memphis Grizzlies - Orlando Magic
+Cleveland Cavaliers - Utah Jazz
+Toronto Raptors - Houston Rockets
+Golden State Warriors - Miami Heat
+Los Angeles Clippers - Sacramento Kings
+Round 57
+Boston Celtics - Oklahoma City Thunder
+New York Knicks - Dallas Mavericks
+Chicago Bulls - Charlotte Hornets
+Philadelphia 76ers - Brooklyn Nets
+Milwaukee Bucks - San Antonio Spurs
+Detroit Pistons - Minnesota Timberwolves
+Phoenix Suns - Washington Wizards
+Indiana Pacers - New Orleans Pelicans
+Atlanta Hawks - Portland Trail Blazers
+Orlando Magic - Denver Nuggets
+Utah Jazz - Los Angeles Lakers
+Houston Rockets - Memphis Grizzlies
+Miami Heat - Cleveland Cavaliers
+Sacramento Kings - Toronto Raptors
+Los Angeles Clippers - Golden State Warriors
+Round 58
+Boston Celtics - New York Knicks
+Chicago Bulls - Oklahoma City Thunder
+Philadelphia 76ers - Dallas Mavericks
+Milwaukee Bucks - Charlotte Hornets
+Detroit Pistons - Brooklyn Nets
+Phoenix Suns - San Antonio Spurs
+Indiana Pacers - Minnesota Timberwolves
+Atlanta Hawks - Washington Wizards
+Orlando Magic - New Orleans Pelicans
+Utah Jazz - Portland Trail Blazers
+Houston Rockets - Denver Nuggets
+Miami Heat - Los Angeles Lakers
+Sacramento Kings - Memphis Grizzlies
+Los Angeles Clippers - Cleveland Cavaliers
+Golden State Warriors - Toronto Raptors

@@ -11,3 +11,5 @@ Sourced from <https://www.reddit.com/r/dailyprogrammer/>
 [317 Intermediate - Counting Elements](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/317-intermediate)  
 
 [318 Easy - Countdown Game Show](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/318-easy)  
+
+[318 Intermediate - NBA Round-Robin Schedule](https://github.com/ersmi/practice-problems/tree/master/python/dailyprogrammer/318-intermediate)  
