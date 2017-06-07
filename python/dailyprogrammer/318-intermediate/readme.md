@@ -1,4 +1,4 @@
-# Intermediate problem #318 - Countdown Game Show
+# Intermediate problem #318 - NBA Round-Robin Schedule
 
 <https://www.reddit.com/r/dailyprogrammer/comments/6ft96y/>
 
